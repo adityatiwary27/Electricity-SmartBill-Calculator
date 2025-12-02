@@ -1,1 +1,1 @@
-# SmartBill-Electricity-Calculator
+# Electricity-SmartBill-Calculator
